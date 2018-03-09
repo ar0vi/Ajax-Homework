@@ -1,0 +1,32 @@
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+button{
+color: white;
+background-color: #352a7a;
+font-size: 13px;
+}
+
+
+#searchForm{
+width: 350px;
+height: 65px;
+border: dotted 1px gray;
+text-align: left;
+padding-left: 5px;
+padding-top: 10px;
+position: fixed;
+top: 33%;
+right: 5%;
+}
+
+.label{
+font-size: 14px;
+}
+
+#userInput{
+width: 280px;
+}
